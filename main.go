@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"./parser"
+	"github.com/sesquipedalian-dev/antlr-go-tut/parser"
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
 )
